@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+nav a {
+  padding: 10px;
+  background: grey;
+
+}
+
+#featured-property {
+  text-align: center;
+}
+
+#featured-property p {
+  width: 800px;
+  margin: 1rem auto;
+
+}
+
+#details {
+  background-color: red;
+  display: flex;
+  justify-content: space-around;
+  padding: 1.2rem 0;
+}
+
+#details div {
+  text-align: center;
+}
+
